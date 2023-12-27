@@ -53,7 +53,8 @@ Here are some ideas to get you started:
     </div>
     <p><strong>Language</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
     </div>
     <p><strong>os</strong></p>
     <div>
