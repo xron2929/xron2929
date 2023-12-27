@@ -38,6 +38,7 @@ Here are some ideas to get you started:
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
@@ -47,6 +48,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black"> 
     </div>
     <p><strong>Language</strong></p>
     <div>
