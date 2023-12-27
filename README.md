@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xron2929&show_icons=true&theme=dark)     
 ## baekjoon status 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xron2929)](https://solved.ac/xron2929)
-## 🔨 Once I've used 🔨
+##  my skill
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
