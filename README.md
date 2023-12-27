@@ -38,9 +38,6 @@ Here are some ideas to get you started:
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=black"> 
-        <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
@@ -54,6 +51,12 @@ Here are some ideas to get you started:
     <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    </div>
+    <p><strong>os</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=black"> 
+        <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black"> 
     </div>
 <br>
 </div>
